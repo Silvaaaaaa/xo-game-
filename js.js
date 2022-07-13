@@ -12,7 +12,7 @@ function run( num1 , num2 , num3 ){
     }, 1000) // infintly 
     setTimeout(() => {
       location.reload()   
-    }, 4000); // once 
+    }, 3000); // once 
 }
 function Winner(){
    for(let i = 1  ; i < 10 ; i++ ){
